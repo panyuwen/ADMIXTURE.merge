@@ -1,4 +1,4 @@
-**ancestry_file.merge.py**
+**ADMIXTURE merge** (by Yuwen Pan)    
 
 To merge ancestral components (admixture proportions across individuals) and adjust their orders for the replicates of ADMIXTURE analysis    
 
