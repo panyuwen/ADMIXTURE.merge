@@ -4,7 +4,8 @@ To merge ancestral components (admixture proportions across individuals) and adj
 
 If you use the script **ancestry_file.merge.py** in your research work, please cite at least one of the following paper(s):    
 
-[Genomic diversity and post-admixture adaptation in the Uyghurs](https://doi.org/10.1093/nsr/nwab124)
+[Genomic diversity and post-admixture adaptation in the Uyghurs](https://doi.org/10.1093/nsr/nwab124) (*National Science Review*, 2021)
+
 
 ### Description: 
 
